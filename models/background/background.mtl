@@ -1,0 +1,6 @@
+#Produced by Art of Illusion 2.8.1, Mon Apr 29 09:50:09 EDT 2013
+newmtl nebula
+Kd 0 0 0
+Ka 1 1 1
+map_Kd background1.png
+Ks 0 0 0
