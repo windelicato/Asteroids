@@ -6,12 +6,13 @@
 	        \/     \/            \/                     \/    \/ 
 	===============================================================
 
+![Alt text](https://raw.github.com/windelicato/Asteroids/master/screenshot.png "Asteroids")
 
 A dramatic revisioning of the Atari classic in OpenGL
-`
+
+
 
 **Dependencies:**
-
 +  libgl
 +  libglu
 +  freeglut
@@ -20,15 +21,11 @@ A dramatic revisioning of the Atari classic in OpenGL
 +  freealut
 +  g++
 
-->![Alt text](https://raw.github.com/windelicato/Asteroids/master/screenshot.png "Asteroids")<-
-
 
 **Credits:**
 
 
 *Object Models, Textures, and Images*
-
-
 *  Fighter Ship: http://www.3dvia.com/models/A3A80699ABBD8FA1/ghoul-fighter
 *  Asteroid: https://github.com/brownan/asteroids/blob/master/asteroid.obj
 *  Background Image: http://stararmy.com/index.php
@@ -36,9 +33,6 @@ A dramatic revisioning of the Atari classic in OpenGL
 
 
 *Game Audio*
-
-All sounds, except the laser sound, come from Super Mario Brothers. The laser sound was found via google search. 
-
 *  Mario Sounds: http://themushroomkingdom.net/wav.shtml
 *  Laser Sound: http://cd.textfiles.com/10000soundssongs/WAV/LASER.WAV
 
